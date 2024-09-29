@@ -244,11 +244,10 @@ iframe{
 
 
 .team-container{
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 80px;
-    display: inline-block;
-    margin-left: 400px;
 
 }
 
