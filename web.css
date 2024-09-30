@@ -84,7 +84,7 @@ a{
     line-height: 3px;
 }
 .bng{
-    background-image: url("../images/first-pic.jpg");
+    background-image:url("images/first-pic.jpg");
     height: 300px;
     padding-bottom: 200px;
     background-size: cover;
